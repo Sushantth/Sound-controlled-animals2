@@ -1,0 +1,40 @@
+body{
+font-family: 'Roboto Slab', serif;
+background-color: none;
+
+}
+
+#div1{
+background-color: #808080;
+color: aliceblue;
+}
+
+#div1 p{
+font-weight: 100;
+letter-spacing: 3;
+font-size: larger;
+}
+
+#div2{
+background-color: #daf1fe;
+}
+
+#div2 button{
+background-color: rgb(37, 175, 221);
+letter-spacing: 3px;
+color: white;
+margin-top: 20px;
+width: 100px;
+font-weight: 100;
+}
+
+#div3 label{
+width: 100%;
+margin-top: 20px;
+text-align: center;
+background-color: white;
+color: #808080;
+font-size: larger;
+line-height: 30px;
+text-shadow: black;
+}
